@@ -10,9 +10,11 @@ I will continue to accumulate all datasets, while I work on any particular probl
 4. [Zillow rental datasets](https://github.com/chrismetcalf/zillow-data/tree/master/data)
 5. [State of New Jersey - Depart of Education data](http://www.nj.gov/education/data/)
 6. [Health data](https://www.healthdata.gov/search/type/dataset)
-7. [Indian Government open data](https://data.gov.in/)
+7. [Indian Government Open data](https://data.gov.in/)
 8. [US Government's Open data](https://www.data.gov/)
 9. [Key datasets from Government of India](http://ml-india.org/datasets/)
+10. [UK Government's Open data](https://data.gov.uk/)
+11. Open data Initiatives of other countries[Russia](http://data.gov.ru/?language=en) | [Canada](http://open.canada.ca/data/en/dataset) | [Japan](http://www.data.go.jp/data/en/dataset) | [Singapore](https://data.gov.sg/)
 
 
 ## Meta
