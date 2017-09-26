@@ -7,8 +7,12 @@ I will continue to accumulate all datasets, while I work on any particular probl
 1. [Awesome-datasets #1](https://github.com/caesar0301/awesome-public-datasets)
 2. [Awesome-datasets #2](https://github.com/viisar/awesome-datasets)
 3. [UCI ML datasets](http://archive.ics.uci.edu/ml/datasets.html)
-4. [Zillow datasets](https://github.com/chrismetcalf/zillow-data/tree/master/data)
+4. [Zillow rental datasets](https://github.com/chrismetcalf/zillow-data/tree/master/data)
 5. [State of New Jersey - Depart of Education data](http://www.nj.gov/education/data/)
+6. [Health data](https://www.healthdata.gov/search/type/dataset)
+7. [Indian Government open data](https://data.gov.in/)
+8. [US Government's Open data](https://www.data.gov/)
+9. [Key datasets from Government of India](http://ml-india.org/datasets/)
 
 
 ## Meta
