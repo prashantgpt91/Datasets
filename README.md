@@ -15,6 +15,11 @@ I will continue to accumulate all datasets, while I work on any particular probl
 9. [Key datasets from Government of India](http://ml-india.org/datasets/)
 10. [UK Government's Open data](https://data.gov.uk/)
 11. Open data Initiatives of other countries [Russia](http://data.gov.ru/?language=en) | [Canada](http://open.canada.ca/data/en/dataset) | [Japan](http://www.data.go.jp/data/en/dataset) | [Singapore](https://data.gov.sg/) | [Switzerland](https://opendata.swiss/en/)
+12. [AWS public datasets](https://aws.amazon.com/public-datasets/)
+13. [KDnuggets public datasets](http://www.kdnuggets.com/datasets/index.html)
+14. [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
+15. Other websites hosting/aggregating open source datasets. [Cool datasets](https://www.cooldatasets.com/)
+16. [Kaggle Datasets](https://www.kaggle.com/datasets)
 
 
 ## Meta
