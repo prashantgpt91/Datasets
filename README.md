@@ -18,13 +18,22 @@ I will continue to accumulate all datasets, while I work on any particular probl
 12. [AWS public datasets](https://aws.amazon.com/public-datasets/)
 13. [KDnuggets public datasets](http://www.kdnuggets.com/datasets/index.html)
 14. [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
-15. Other websites hosting/aggregating open source datasets. [Cool datasets](https://www.cooldatasets.com/)
+15. [Cool datasets](https://www.cooldatasets.com/)
 16. [Kaggle Datasets](https://www.kaggle.com/datasets)
 17. [Reuters full dataset](https://github.com/philipperemy/Reuters-full-data-set)
 18. [Coinbase bitcoin data dump](http://api.bitcoincharts.com/v1/csv/coinbaseUSD.csv.gz) | [Bitcoin Kaggle competition data](https://inclass.kaggle.com/mczielinski/bitcoin-historical-data/data)
 19. [GitHub data (~1M repositories)](https://github.com/philipperemy/Github-full-data-set)
 20. [Reuters & Bloomberg financial news dataset](https://github.com/philipperemy/financial-news-dataset)
-
+21. [Annotated Image dataset by Google ~9M](https://github.com/openimages/dataset)
+22. [Image centered datasets](https://github.com/rudvlf0413/Dataset#image)
+23. [Medical centered datasets](https://github.com/rudvlf0413/Dataset#medical)
+24. [Video centered datasets](https://github.com/rudvlf0413/Dataset#video)
+25. [Text centered datasets](https://github.com/rudvlf0413/Dataset#text)
+26. [knowledge base datasets](https://github.com/rudvlf0413/Dataset#knowledge-base)
+27. [Social network & recommendation datasets](https://github.com/rudvlf0413/Dataset#social-networks--recomendationdation)
+28. [Obama’s political speeches dataset](Obama’s political speeches)
+29. [Racoon animal dataset](https://github.com/datitran/raccoon_dataset)
+30. [Myanmar election dataset](https://github.com/MyanmarAPI/dataset)
 
 ## Meta
 
