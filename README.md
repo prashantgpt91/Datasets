@@ -8,7 +8,7 @@ I will continue to accumulate all datasets, while I work on any particular probl
 2. [Awesome-datasets #2](https://github.com/viisar/awesome-datasets)
 3. [UCI ML datasets](http://archive.ics.uci.edu/ml/datasets.html)
 4. [Zillow rental datasets](https://github.com/chrismetcalf/zillow-data/tree/master/data)
-5. [State of New Jersey - Depart of Education data](http://www.nj.gov/education/data/)
+5. [State of New Jersey - Department of Education data](http://www.nj.gov/education/data/)
 6. [Health data](https://www.healthdata.gov/search/type/dataset)
 7. [Indian Government Open data](https://data.gov.in/)
 8. [US Government's Open data](https://www.data.gov/)
@@ -20,6 +20,10 @@ I will continue to accumulate all datasets, while I work on any particular probl
 14. [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 15. Other websites hosting/aggregating open source datasets. [Cool datasets](https://www.cooldatasets.com/)
 16. [Kaggle Datasets](https://www.kaggle.com/datasets)
+17. [Reuters full dataset](https://github.com/philipperemy/Reuters-full-data-set)
+18. [Coinbase bitcoin data dump](http://api.bitcoincharts.com/v1/csv/coinbaseUSD.csv.gz) | [Bitcoin Kaggle competition data](https://inclass.kaggle.com/mczielinski/bitcoin-historical-data/data)
+19. [GitHub data (~1M repositories)](https://github.com/philipperemy/Github-full-data-set)
+20. [Reuters & Bloomberg financial news dataset](https://github.com/philipperemy/financial-news-dataset)
 
 
 ## Meta
