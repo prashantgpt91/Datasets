@@ -31,15 +31,24 @@ I will continue to accumulate all datasets, while I work on any particular probl
 25. [Text centered datasets](https://github.com/rudvlf0413/Dataset#text)
 26. [knowledge base datasets](https://github.com/rudvlf0413/Dataset#knowledge-base)
 27. [Social network & recommendation datasets](https://github.com/rudvlf0413/Dataset#social-networks--recomendationdation)
-28. [Obama’s political speeches dataset](Obama’s political speeches)
+28. [Obama’s political speeches dataset](https://github.com/samim23/obama-rnn/blob/master/input.txt)
 29. [Racoon animal dataset](https://github.com/datitran/raccoon_dataset)
 30. [Myanmar election dataset](https://github.com/MyanmarAPI/dataset)
+31. [Google's quickdraw shape dataset](https://github.com/googlecreativelab/quickdraw-dataset#get-the-data)
 
 ## Meta
 
 **License**
 
 The datasets are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
+**Contributing**
+
+There are no formal contributing guidelines at the moment. You are welcome to contribute whatever that you think will be helpful to fellow engineers in Machine learning practice on different datasets. If you would like to contribute content, feel free to create an issue or submit a pull request and we can discuss further.
+
+**Maintainers**
+
+- [Prashant Gupta](https://github.com/x0v)
 
 **Questions? Comments?**
 
