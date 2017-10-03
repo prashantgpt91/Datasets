@@ -37,6 +37,8 @@ I will continue to accumulate all datasets, while I work on any particular probl
 31. [Google's quickdraw shape dataset](https://github.com/googlecreativelab/quickdraw-dataset#get-the-data)
 32. [Samples of Security Related Data](http://www.secrepo.com/)
 33. [Json - mapping the countries of the world to their cities](https://gist.github.com/x0v/7e660add90c18cc1980eabf10439c2fc)
+34. [Earthquake data including details with magnitude, Latitude, Longitude](https://gist.github.com/x0v/0eb3f93cef83954c6ccbc1257c46a0a6)
+35. [Earth TopoJSON data ("land" and "countries" objects)](https://gist.github.com/x0v/9b0558613b94eb2498325931acf5ea21)
 
 ## Meta
 
