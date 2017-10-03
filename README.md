@@ -36,6 +36,7 @@ I will continue to accumulate all datasets, while I work on any particular probl
 30. [Myanmar election dataset](https://github.com/MyanmarAPI/dataset)
 31. [Google's quickdraw shape dataset](https://github.com/googlecreativelab/quickdraw-dataset#get-the-data)
 32. [Samples of Security Related Data](http://www.secrepo.com/)
+33. [Json - mapping the countries of the world to their cities](https://gist.github.com/x0v/7e660add90c18cc1980eabf10439c2fc)
 
 ## Meta
 
