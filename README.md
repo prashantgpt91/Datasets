@@ -57,6 +57,7 @@ I will continue to accumulate all datasets, while I work on any particular probl
 51. [CRIME Database from DeepEnd Research](https://www.dropbox.com/sh/7fo4efxhpenexqp/AADHnRKtL6qdzCdRlPmJpS8Aa/CRIME?dl=0)
 52. [Publicly available PCAP files](http://www.netresec.com/?page=PcapFiles)
 53. [2007 TREC Public Spam Corpus](https://plg.uwaterloo.ca/~gvcormac/treccorpus07/)
+54. [Datasets for deep learning](http://deeplearning.net/datasets/)
 
 
 ## Meta
