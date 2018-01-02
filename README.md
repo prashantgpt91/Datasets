@@ -57,6 +57,7 @@ I will continue to accumulate all datasets, while I work on any particular probl
 51. [Publicly available PCAP files](http://www.netresec.com/?page=PcapFiles)
 52. [2007 TREC Public Spam Corpus](https://plg.uwaterloo.ca/~gvcormac/treccorpus07/)
 53. [Datasets for deep learning](http://deeplearning.net/datasets/)
+54. [fivethirtyeight datasets](https://github.com/fivethirtyeight/data)
 
 
 ## Meta
